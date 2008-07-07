@@ -1,2 +1,0 @@
-#!/bin/sh
-../lpc21isp-ipre -control main.hex /dev/ttyS0 38400 20000
